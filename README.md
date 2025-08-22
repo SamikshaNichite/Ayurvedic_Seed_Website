@@ -7,7 +7,7 @@ It provides information about various Ayurvedic plant seeds, their health benefi
 
 Home Page 🏡 – Introduction to Ayurveda and natural healing.
 
-Seeds Page 🌿 – Displays Ayurvedic seeds (e.g., Tulsi, Neem, Ashwagandha) with descriptions and medicinal uses.
+Seeds Page 🌿 – Displays Ayurvedic seeds.
 
 Contact Page 📞 – Allows visitors to reach out for queries or collaborations.
 
